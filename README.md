@@ -7,3 +7,4 @@ It could be extended with streaming/real-time responses; retrieval of relevant d
 enhance the context offered to the LLM, and parallel queries with different context and different
 structured outputs to drive multiple action and fact APIs which are then summarized into a final result.
 
+![RAG architecture covered by this example](example_diagram.png)
