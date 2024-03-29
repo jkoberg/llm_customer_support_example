@@ -1,0 +1,2 @@
+id,conversation_id,message_format,is_inbound,sanitized,created_at
+10001,5001,text,TRUE,I'm calling to see if you have a Zubma class this week. Either wednesday or thursday afternoon would be great.,2024-01-01T12:00:00Z
